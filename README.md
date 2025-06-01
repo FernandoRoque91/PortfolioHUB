@@ -15,6 +15,8 @@ Parte da atividade da disciplina de Bootcamp I.
 
 [Portfólio](https://docs.google.com/presentation/d/1Nt_L1m2uCZseCMtuHsIXoKgbhyBse-fgqZHnvK2Fvqc/edit?usp=sharing)
 
+[Google Calendar](https://calendar.google.com/calendar/u/0?cid=ZmVybmFuZG8ucm9xdWVAc2VtcHJlY2V1Yi5jb20)
+
 🔴**Objetivo**
 
 Portfólio profissional no GitHub que demonstre minhas habilidades em desenvolvimento, lógica de programação e banco de dados, utilizando projetos do bootcamp e do curso superior, para atrair oportunidades de estágio ou posições de entrada na área de tecnologia.
