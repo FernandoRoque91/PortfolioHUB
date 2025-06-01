@@ -49,6 +49,7 @@ Busco uma oportunidade de estágio ou posição júnior onde eu possa contribuir
 
 Gosto de trocar ideias, receber feedbacks e me desenvolver tanto técnica quanto pessoalmente. Acredito que o aprendizado contínuo e a colaboração são essenciais para o sucesso em qualquer projeto.
 
+*Feito com ajuda da IA do google: GEMINI*
 
 
 
